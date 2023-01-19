@@ -1,5 +1,5 @@
 {
-  "name": "node-project",
+  "name": "redux-tutorial",
   "dockerComposeFile": ["docker-compose.yml"],
   "service": "app",
   "workspaceFolder": "/workspace",
